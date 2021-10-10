@@ -7,6 +7,7 @@
 - Strogonoff de frango	
 - Mousse
 - Pavê
+- Bolo
 
  
 
